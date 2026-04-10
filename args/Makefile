@@ -35,7 +35,6 @@ clean:
 	$(RM) build/*
 
 run:	all
-	echo "RUN HERE"
 	tools/p8r.py $(PROGS) one two three four five "six seven"
 
 #
