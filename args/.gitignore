@@ -1,0 +1,8 @@
+# build directory
+build/
+
+# Universal CTags files
+tags
+
+# Stash directory
+save/
